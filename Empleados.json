@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "682d7a82ac6d6931b781dd34"
+  },
+  "Nombre": "Fer Ayala",
+  "Edad": 23,
+  "Ciudad": "Apopa",
+  "Correo": "fayala@unab.com"
+},
+{
+  "_id": {
+    "$oid": "682e3737bb78e01184844eec"
+  },
+  "Nombre": "Luis Cornejo",
+  "Edad": 21,
+  "Ciudad": "Apopa",
+  "Correo": "lcornejo@unab.com"
+},
+{
+  "_id": {
+    "$oid": "682e390e864f6b3f7995a647"
+  },
+  "Nombre": "Jorge Martinez",
+  "Edad": 35,
+  "Ciudad": "Ilobasco",
+  "Correo": "jmartinez@unab.com"
+}]
